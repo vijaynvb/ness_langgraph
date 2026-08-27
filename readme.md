@@ -54,3 +54,10 @@ Task:
   2. News API
   3. Arithmetic Tool
 ]
+
+MCP Libraries: 
+  1. FastMCP/MCPServer stdio and streamable_http use version 1.32> <2.0 
+  2. langchain_mcp_adapters use version
+
+
+https://academy.langchain.com/courses/intro-to-langgraph
