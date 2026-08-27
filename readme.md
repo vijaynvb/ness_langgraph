@@ -45,8 +45,8 @@ Task:
 
 
 
-1. AI App 
-2. MCP Client
+1. AI App  [graph trigger]
+2. MCP Client [mcp tool -> langchain_mcp_adapters client(connect mcp server) ]
 
 3. Mcp Server [MCP Tools]
 4. Resources [ Tools
