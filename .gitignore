@@ -20,7 +20,6 @@ dist/
 .ipynb_checkpoints/
 
 # Editor / IDE
-.vscode/
 .idea/
 
 # OS
