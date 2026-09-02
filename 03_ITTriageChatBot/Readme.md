@@ -19,4 +19,4 @@ AI Engginering tools:
   - performance monitoring: Continuously tracking and analyzing the performance of AI models and agents to ensure optimal operation.
 
 
-
+https://academy.langchain.com/courses/take/intro-to-langsmith
